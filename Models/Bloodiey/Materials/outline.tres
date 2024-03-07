@@ -1,0 +1,9 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://c5kh7lxh6ogjg"]
+
+[resource]
+resource_name = "outline"
+vertex_color_use_as_albedo = true
+albedo_color = Color(0, 0, 0, 1)
+metallic = 0.4
+roughness = 0.0
+emission_enabled = true

@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://3yvi5j031gtw"]
+
+[ext_resource type="PackedScene" uid="uid://bdbuw8qqa30xj" path="res://Models/Bloodiey/Bloodiey CGI Game not fat subdivided Render Animated.fbx" id="1_i1oi1"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="Root Scene" parent="." instance=ExtResource("1_i1oi1")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -5.78744, 0, -4.94124)

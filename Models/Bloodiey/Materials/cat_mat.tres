@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://5eyp8ybse0q5"]
+
+[ext_resource type="Texture2D" uid="uid://dinhj8q45m3a7" path="res://Models/Bloodiey/res/textures/atlas2x.png" id="1_yjkk6"]
+
+[resource]
+resource_name = "cat_mat"
+vertex_color_use_as_albedo = true
+albedo_texture = ExtResource("1_yjkk6")
+metallic = 0.4
+roughness = 0.64
